@@ -92,3 +92,20 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
+
+<!-- Section extra -->
+<br>
+<!-- Lenguajes más usados -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EricksonRT&show_icons=true&theme=dark&locale=en&layout=compact" alt="EricksonRT top languages" />
+</p>
+<br><br><br><br><br><br><br><br>
+<!-- Estadísticas generales -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=EricksonRT&show_icons=true&theme=dark&locale=en" alt="EricksonRT GitHub Stats" />
+</p>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
